@@ -7,6 +7,9 @@ AWS_ACCESS_KEY_ID=<key>
 AWS_SECRET_ACCESS=<secret>
 
 In terminal run
-`node index.js`
+- `node s3.js`
+- `node api.js`
 
-Refer [YT](https://youtu.be/qpuqp04DVf4?feature=shared)
+# References
+- [IAM, S3](https://youtu.be/qpuqp04DVf4?feature=shared)
+- [Lambda, API Gateway](https://youtu.be/8iYZd3zYe-Q?feature=shared)
